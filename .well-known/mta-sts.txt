@@ -1,4 +1,4 @@
 version: STSv1
-mode: enforce
+mode: testing
 mx: testdev-co-nz.mail.protection.outlook.com
 max_age: 86400
